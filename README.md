@@ -18,5 +18,6 @@ Sneaker Hunter is built to serve sneaker enthusiasts, bargain hunters, and anyon
 
 ---
 
-**Note:** This project is currently under active development. Stay tuned for updates and new features.
+> [!NOTE]
+> This project is currently under active development. Stay tuned for updates and new features.
 
